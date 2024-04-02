@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **App Development**
 
-- 👯 I’m looking to collaborate on **App Development**
+- 🤝 I’m interested in creating a mobile app with a dev in **App Development**
 
 - 💬 Ask me about **App Development & Web Development**
 
@@ -24,3 +24,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mornedeklerk&show_icons=true&locale=en" alt="mornedeklerk" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mornedeklerk&" alt="mornedeklerk" /></p>
+
